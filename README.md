@@ -1,5 +1,14 @@
 # Multifunctional Python Program
 
+## Table of Contents
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Usage](#usage)
+4. [Dependencies](#dependencies)
+5. [APIs Used](#apis-used)
+6. [How to Run](#how-to-run)
+7. [Author](#author)
+
 ## Overview
 
 This Python program provides several functionalities using various APIs, allowing users to check the weather, predict nationality based on a name, find public holidays in a specific country, and discover activities to do when bored.
